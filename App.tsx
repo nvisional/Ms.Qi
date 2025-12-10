@@ -215,7 +215,7 @@ export default function App() {
                         </div>
                         <div className="space-y-2">
                           <h3 className="text-xl font-bold text-slate-100">
-                            青年创新领袖计划 · 五个小组联合声明
+                            五个小组的联合声明
                           </h3>
                           <p className="text-xs text-slate-400 leading-relaxed">
                             原定这里应该出现一份端庄严肃的“终面安排”,
